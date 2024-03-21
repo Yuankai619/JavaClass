@@ -1,0 +1,5 @@
+Title: The Mythical Man-Month
+Author: Fred Brooks
+Publisher: Addison-Wesley
+Publication date: 1975
+Summary: The Mythical Man-Month: Essays on Software Engineering is a book on software engineering and project management by Fred Brooks first published in 1975, with subsequent editions in 1982 and 1995. Its central theme is that adding manpower to a software project that is behind schedule delays it even longer. This idea is known as Brooks's law, and is presented along with the second-system effect and advocacy of prototyping.
