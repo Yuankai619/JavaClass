@@ -54,7 +54,9 @@ public class Complex {
     }
 
     // Custom toString method to print Complex numbers in the form a + bi
+    @Override
     public String toString() {
-        return String.format("%.2f + %.2fi", real, imaginary);
+        char operator = (imaginary < 0) ? '-' : '+';
+        return String.format("%.2f %s %.2fi", real, operator, Math.abs(imaginary));
     }
 }

@@ -1,5 +1,7 @@
 package ntou.cs.java2024;
 import ntou.cs.java2024.*;
+//javac -d . CourseManagerTest.java
+//java ntou.cs.java2024.CourseManagerTest
 public class CourseManagerTest {
     public static void main(String[] args) {
         try {

@@ -1,7 +1,7 @@
 package ntou.cs.java2024;
 import java.util.ArrayList;
 import ntou.cs.java2024.Student;
-//java ntou.cs.java2024.CourseManagerTest
+//javac -d . Course.java
 public class Course {
     private final String courseName;
     private ArrayList<Student> studentList;

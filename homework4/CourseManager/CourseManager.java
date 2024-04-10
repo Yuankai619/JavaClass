@@ -1,7 +1,7 @@
 package ntou.cs.java2024;
-
 import java.util.ArrayList;
 import ntou.cs.java2024.Course;
+//javac -d . CourseManager.java
 public class CourseManager {
     private static final ArrayList<Course> courses = new ArrayList<>();
 
@@ -17,7 +17,7 @@ public class CourseManager {
                 return c;
             }
         }
-        return null; // or throw an exception if you prefer
+        return null; // Course not found
     }
 
     public static void printAllCoursesInfo() {

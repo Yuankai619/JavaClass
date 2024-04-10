@@ -1,5 +1,5 @@
 package ntou.cs.java2024;
-
+//javac -d . Student.java
 public class Student {
     private final String name;
 
